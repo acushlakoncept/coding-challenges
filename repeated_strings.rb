@@ -13,3 +13,5 @@ def repeatedString(s, n)
   new_val + s.slice(0, r).count('a')
 
 end
+
+p repeatedString("aba", 10) ## expected output => 7
