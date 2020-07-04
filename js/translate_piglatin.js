@@ -23,3 +23,5 @@ function translatePigLatin(str) {
   }
   return newStr;
 }
+
+console.log(translatePigLatin("Acushla Koncepts"))
