@@ -10,7 +10,7 @@ To get a local copy of the repository please run the following commands on your 
 $ cd <folder>
 ~~~
 
-~~~bash
+~~~shell
 $ git clone https://github.com/acushlakoncept/coding-challenges.git
 ~~~
 
