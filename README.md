@@ -26,6 +26,18 @@ To run the method for ruby
 $ ruby ruby/filename.rb
 ~~~
 
+<details markdown="block">
+  <summary> Javascript Solutions </summary>
+
+* [destroyer](https://github.com/acushlakoncept/coding-challenges/blob/master/js/destroyer.js)
+
+* [reverseString](https://github.com/acushlakoncept/coding-challenges/blob/master/js/reverse_string.js)
+
+* [translatePigLatin](https://github.com/acushlakoncept/coding-challenges/blob/master/js/translate_piglatin.js)
+
+* [truncate_string](https://github.com/acushlakoncept/coding-challenges/blob/master/js/truncate_string.js)
+
+  </details>
 
 # Author
 
