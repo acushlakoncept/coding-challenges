@@ -39,6 +39,17 @@ $ ruby ruby/filename.rb
 
   </details>
 
+<details markdown="block">
+  <summary> Ruby Solutions </summary>
+
+* [drawing_book](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/drawing_book.rb)
+
+* [repeated_strings](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/repeated_strings.rb)
+
+
+  </details>
+
+
 # Author
 
 👤 **Uduak Essien**
