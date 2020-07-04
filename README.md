@@ -26,6 +26,8 @@ To run the method for ruby
 $ ruby ruby/filename.rb
 ~~~
 
+## Solutions 🙂 
+
 <details markdown="block">
   <summary> Javascript Solutions </summary>
 
