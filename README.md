@@ -39,6 +39,8 @@ $ ruby ruby/filename.rb
 
 * [truncate_string](https://github.com/acushlakoncept/coding-challenges/blob/master/js/truncate_string.js)
 
+* [convert_html](https://github.com/acushlakoncept/coding-challenges/blob/master/js/convert_html.js)
+
   </details>
 
 <details markdown="block">
