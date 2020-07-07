@@ -45,6 +45,7 @@ $ ruby ruby/filename.rb
 
 * [sum_prime](https://github.com/acushlakoncept/coding-challenges/blob/master/js/sum_prime.js)
 
+* [chunk_array](https://github.com/acushlakoncept/coding-challenges/blob/master/js/chunk_array.js)
 
 
   </details>
