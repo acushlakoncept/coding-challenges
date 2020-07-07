@@ -47,6 +47,7 @@ $ ruby ruby/filename.rb
 
 * [chunk_array](https://github.com/acushlakoncept/coding-challenges/blob/master/js/chunk_array.js)
 
+* [getindex](https://github.com/acushlakoncept/coding-challenges/blob/master/js/getindex.js)
 
   </details>
 
