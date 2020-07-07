@@ -41,6 +41,8 @@ $ ruby ruby/filename.rb
 
 * [convert_html](https://github.com/acushlakoncept/coding-challenges/blob/master/js/convert_html.js)
 
+* [pair_element](https://github.com/acushlakoncept/coding-challenges/blob/master/js/pair_element.js)
+
   </details>
 
 <details markdown="block">
