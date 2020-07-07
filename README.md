@@ -43,6 +43,10 @@ $ ruby ruby/filename.rb
 
 * [pair_element](https://github.com/acushlakoncept/coding-challenges/blob/master/js/pair_element.js)
 
+* [sum_prime](https://github.com/acushlakoncept/coding-challenges/blob/master/js/sum_prime.js)
+
+
+
   </details>
 
 <details markdown="block">
