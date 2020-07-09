@@ -51,6 +51,10 @@ $ ruby ruby/filename.rb
 
 * [staircase](https://github.com/acushlakoncept/coding-challenges/blob/master/js/staircase.js)
 
+* [birthday_cake_candles](https://github.com/acushlakoncept/coding-challenges/blob/master/js/birthday_cake_candles.js)
+
+
+
 
 
 
