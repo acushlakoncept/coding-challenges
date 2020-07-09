@@ -49,6 +49,8 @@ $ ruby ruby/filename.rb
 
 * [getindex](https://github.com/acushlakoncept/coding-challenges/blob/master/js/getindex.js)
 
+* [staircase](https://github.com/acushlakoncept/coding-challenges/blob/master/js/staircase.js)
+
   </details>
 
 <details markdown="block">
