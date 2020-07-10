@@ -55,7 +55,7 @@ $ ruby ruby/filename.rb
 
 * [breaking_records](https://github.com/acushlakoncept/coding-challenges/blob/master/js/breaking_records.js)
 
-
+* [title_case](https://github.com/acushlakoncept/coding-challenges/blob/master/js/title_case.js)
 
  
 
