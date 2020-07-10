@@ -57,7 +57,7 @@ $ ruby ruby/filename.rb
 
 * [title_case](https://github.com/acushlakoncept/coding-challenges/blob/master/js/title_case.js)
 
- 
+* [franken_splice](https://github.com/acushlakoncept/coding-challenges/blob/master/js/franken_splice.js)
 
 
   </details>
