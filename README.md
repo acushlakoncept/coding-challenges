@@ -53,9 +53,11 @@ $ ruby ruby/filename.rb
 
 * [birthday_cake_candles](https://github.com/acushlakoncept/coding-challenges/blob/master/js/birthday_cake_candles.js)
 
+* [breaking_records](https://github.com/acushlakoncept/coding-challenges/blob/master/js/breaking_records.js)
 
 
 
+ 
 
 
   </details>
