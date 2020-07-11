@@ -61,6 +61,9 @@ $ ruby ruby/filename.rb
 
 * [counting_valleys](https://github.com/acushlakoncept/coding-challenges/blob/master/js/counting_valleys.js)
 
+* [stock_merchant](https://github.com/acushlakoncept/coding-challenges/blob/master/js/stock_merchant.js)
+
+
 
   </details>
 
