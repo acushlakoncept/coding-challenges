@@ -59,6 +59,8 @@ $ ruby ruby/filename.rb
 
 * [franken_splice](https://github.com/acushlakoncept/coding-challenges/blob/master/js/franken_splice.js)
 
+* [counting_valleys](https://github.com/acushlakoncept/coding-challenges/blob/master/js/counting_valleys.js)
+
 
   </details>
 
