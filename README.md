@@ -65,6 +65,8 @@ $ ruby ruby/filename.rb
 
 * [add_up_to_n](https://github.com/acushlakoncept/coding-challenges/blob/master/js/add_up_to_n.js)
 
+* [migratory_birds](https://github.com/acushlakoncept/coding-challenges/blob/master/js/migratory_birds.js)
+
 
 
   </details>
