@@ -63,6 +63,8 @@ $ ruby ruby/filename.rb
 
 * [stock_merchant](https://github.com/acushlakoncept/coding-challenges/blob/master/js/stock_merchant.js)
 
+* [add_up_to_n](https://github.com/acushlakoncept/coding-challenges/blob/master/js/add_up_to_n.js)
+
 
 
   </details>
