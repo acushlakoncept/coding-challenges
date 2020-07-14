@@ -1,4 +1,4 @@
-# List of Coding Challenges 
+# List of Coding Challenges
 
 This repo contains list of coding challenges I have solved on Hackerrank.
 
@@ -6,83 +6,81 @@ This repo contains list of coding challenges I have solved on Hackerrank.
 
 To get a local copy of the repository please run the following commands on your terminal:
 
-~~~bash
+```bash
 $ cd <folder>
-~~~
+```
 
-~~~shell
+```shell
 $ git clone https://github.com/acushlakoncept/coding-challenges.git
-~~~
+```
 
 To run the function for javascript
 
-~~~javascript
+```javascript
 $ node js/filename.js
-~~~
+```
 
 To run the method for ruby
 
-~~~ruby
+```ruby
 $ ruby ruby/filename.rb
-~~~
+```
 
-## Solutions 🙂 
+## Solutions 🙂
 
 <details markdown="block">
   <summary> Javascript Solutions </summary>
 
-* [destroyer](https://github.com/acushlakoncept/coding-challenges/blob/master/js/destroyer.js)
+- [destroyer](https://github.com/acushlakoncept/coding-challenges/blob/master/js/destroyer.js)
 
-* [reverseString](https://github.com/acushlakoncept/coding-challenges/blob/master/js/reverse_string.js)
+- [reverseString](https://github.com/acushlakoncept/coding-challenges/blob/master/js/reverse_string.js)
 
-* [translatePigLatin](https://github.com/acushlakoncept/coding-challenges/blob/master/js/translate_piglatin.js)
+- [translatePigLatin](https://github.com/acushlakoncept/coding-challenges/blob/master/js/translate_piglatin.js)
 
-* [truncate_string](https://github.com/acushlakoncept/coding-challenges/blob/master/js/truncate_string.js)
+- [truncate_string](https://github.com/acushlakoncept/coding-challenges/blob/master/js/truncate_string.js)
 
-* [convert_html](https://github.com/acushlakoncept/coding-challenges/blob/master/js/convert_html.js)
+- [convert_html](https://github.com/acushlakoncept/coding-challenges/blob/master/js/convert_html.js)
 
-* [pair_element](https://github.com/acushlakoncept/coding-challenges/blob/master/js/pair_element.js)
+- [pair_element](https://github.com/acushlakoncept/coding-challenges/blob/master/js/pair_element.js)
 
-* [sum_prime](https://github.com/acushlakoncept/coding-challenges/blob/master/js/sum_prime.js)
+- [sum_prime](https://github.com/acushlakoncept/coding-challenges/blob/master/js/sum_prime.js)
 
-* [chunk_array](https://github.com/acushlakoncept/coding-challenges/blob/master/js/chunk_array.js)
+- [chunk_array](https://github.com/acushlakoncept/coding-challenges/blob/master/js/chunk_array.js)
 
-* [getindex](https://github.com/acushlakoncept/coding-challenges/blob/master/js/getindex.js)
+- [getindex](https://github.com/acushlakoncept/coding-challenges/blob/master/js/getindex.js)
 
-* [staircase](https://github.com/acushlakoncept/coding-challenges/blob/master/js/staircase.js)
+- [staircase](https://github.com/acushlakoncept/coding-challenges/blob/master/js/staircase.js)
 
-* [birthday_cake_candles](https://github.com/acushlakoncept/coding-challenges/blob/master/js/birthday_cake_candles.js)
+- [birthday_cake_candles](https://github.com/acushlakoncept/coding-challenges/blob/master/js/birthday_cake_candles.js)
 
-* [breaking_records](https://github.com/acushlakoncept/coding-challenges/blob/master/js/breaking_records.js)
+- [breaking_records](https://github.com/acushlakoncept/coding-challenges/blob/master/js/breaking_records.js)
 
-* [title_case](https://github.com/acushlakoncept/coding-challenges/blob/master/js/title_case.js)
+- [title_case](https://github.com/acushlakoncept/coding-challenges/blob/master/js/title_case.js)
 
-* [franken_splice](https://github.com/acushlakoncept/coding-challenges/blob/master/js/franken_splice.js)
+- [franken_splice](https://github.com/acushlakoncept/coding-challenges/blob/master/js/franken_splice.js)
 
-* [counting_valleys](https://github.com/acushlakoncept/coding-challenges/blob/master/js/counting_valleys.js)
+- [counting_valleys](https://github.com/acushlakoncept/coding-challenges/blob/master/js/counting_valleys.js)
 
-* [stock_merchant](https://github.com/acushlakoncept/coding-challenges/blob/master/js/stock_merchant.js)
+- [stock_merchant](https://github.com/acushlakoncept/coding-challenges/blob/master/js/stock_merchant.js)
 
-* [add_up_to_n](https://github.com/acushlakoncept/coding-challenges/blob/master/js/add_up_to_n.js)
+- [add_up_to_n](https://github.com/acushlakoncept/coding-challenges/blob/master/js/add_up_to_n.js)
 
-* [migratory_birds](https://github.com/acushlakoncept/coding-challenges/blob/master/js/migratory_birds.js)
+- [migratory_birds](https://github.com/acushlakoncept/coding-challenges/blob/master/js/migratory_birds.js)
 
-* [same](https://github.com/acushlakoncept/coding-challenges/blob/master/js/same.js)
+- [same](https://github.com/acushlakoncept/coding-challenges/blob/master/js/same.js)
 
-
+- [sum_zero](https://github.com/acushlakoncept/coding-challenges/blob/master/js/sum_zero.js)
 
   </details>
 
 <details markdown="block">
   <summary> Ruby Solutions </summary>
 
-* [drawing_book](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/drawing_book.rb)
+- [drawing_book](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/drawing_book.rb)
 
-* [repeated_strings](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/repeated_strings.rb)
-
+- [repeated_strings](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/repeated_strings.rb)
 
   </details>
-
 
 # Author
 
