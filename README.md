@@ -67,6 +67,8 @@ $ ruby ruby/filename.rb
 
 * [migratory_birds](https://github.com/acushlakoncept/coding-challenges/blob/master/js/migratory_birds.js)
 
+* [same](https://github.com/acushlakoncept/coding-challenges/blob/master/js/same.js)
+
 
 
   </details>
