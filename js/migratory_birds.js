@@ -12,3 +12,19 @@ function migratoryBirds(arr) {
   return max;
 
 }
+
+
+// return arr.sort((a, b) =>
+//     arr.filter(v => v === a).length -
+//     arr.filter(v => v === b).length
+// ).pop();
+
+
+// function migratoryBirds(arr) {
+//     arr.sort((a, b) => (a - b));
+//     return arr.sort((a, b) =>
+//         arr.filter(n => n === a).length -
+//         arr.filter(n => n === b).length
+//     ).pop();
+
+// }
