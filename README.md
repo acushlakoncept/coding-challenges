@@ -71,6 +71,10 @@ $ ruby ruby/filename.rb
 
 - [sum_zero](https://github.com/acushlakoncept/coding-challenges/blob/master/js/sum_zero.js)
 
+- [mode](https://github.com/acushlakoncept/coding-challenges/blob/master/js/mode.js)
+
+
+
   </details>
 
 <details markdown="block">
