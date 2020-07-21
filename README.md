@@ -84,6 +84,8 @@ $ ruby ruby/filename.rb
 
 - [repeated_strings](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/repeated_strings.rb)
 
+- [electronic_shop](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/electronic_shop.rb)
+
   </details>
 
 # Author
