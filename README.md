@@ -86,6 +86,11 @@ $ ruby ruby/filename.rb
 
 - [electronic_shop](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/electronic_shop.rb)
 
+- [picking_numbers](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/picking_numbers.rb)
+
+
+
+
   </details>
 
 # Author
