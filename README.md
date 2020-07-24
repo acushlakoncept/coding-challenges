@@ -90,6 +90,8 @@ $ ruby ruby/filename.rb
 
 - [hurdle_race](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/hurdle_race.rb)
 
+- [angry_professor](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/angry_professor.rb)
+
 
   </details>
 
