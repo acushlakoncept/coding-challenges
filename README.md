@@ -88,7 +88,7 @@ $ ruby ruby/filename.rb
 
 - [picking_numbers](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/picking_numbers.rb)
 
-
+- [hurdle_race](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/hurdle_race.rb)
 
 
   </details>
