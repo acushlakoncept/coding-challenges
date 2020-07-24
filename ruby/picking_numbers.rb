@@ -5,7 +5,7 @@ def picking_numbers(a)
 
   max_count = 1
   counter = 0
-  max_arr = []
+  max_counter = 0
   first = sorted[0]
   sorted = sorted.slice(1, sorted.length)
 
@@ -14,7 +14,7 @@ def picking_numbers(a)
       max_count += 1
       counter += 1
     else
-      max_arr << max_count if max_count >= 1
+      max_count > max_counter ? max_counter = max_count : max_counter
       max_count = 1
       counter = 0
       break if sorted.length.eql?(1)
@@ -25,5 +25,5 @@ def picking_numbers(a)
     break if counter.eql?(sorted.length)
   end
 
-  max_arr.empty? ? max_count : max_arr.max
+  max_counter.zero? ? max_count : max_counter
 end
