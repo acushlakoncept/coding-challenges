@@ -94,6 +94,8 @@ $ ruby ruby/filename.rb
 
 - [find_digits](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/find_digits.rb)
 
+- [library_fine](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/library_fine.rb)
+
 
   </details>
 
