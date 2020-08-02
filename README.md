@@ -73,6 +73,8 @@ $ ruby ruby/filename.rb
 
 - [mode](https://github.com/acushlakoncept/coding-challenges/blob/master/js/mode.js)
 
+- [count_unique_values](https://github.com/acushlakoncept/coding-challenges/blob/master/js/count_unique_values.js)
+
 
 
   </details>
