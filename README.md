@@ -98,6 +98,9 @@ $ ruby ruby/filename.rb
 
 - [library_fine](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/library_fine.rb)
 
+- [equalize_array](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/equalize_array.rb)
+
+
 
   </details>
 
