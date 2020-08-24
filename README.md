@@ -100,6 +100,8 @@ $ ruby ruby/filename.rb
 
 - [equalize_array](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/equalize_array.rb)
 
+- [encryption](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/encryption.rb)
+
 
 
   </details>
