@@ -102,6 +102,7 @@ $ ruby ruby/filename.rb
 
 - [encryption](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/encryption.rb)
 
+- [palindrome](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/palindrome.rb)
 
 
   </details>
