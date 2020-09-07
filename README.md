@@ -104,6 +104,8 @@ $ ruby ruby/filename.rb
 
 - [palindrome](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/palindrome.rb)
 
+- [anagram](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/anagram.rb)
+
 
   </details>
 
