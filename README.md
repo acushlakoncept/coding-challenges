@@ -75,8 +75,6 @@ $ ruby ruby/filename.rb
 
 - [count_unique_values](https://github.com/acushlakoncept/coding-challenges/blob/master/js/count_unique_values.js)
 
-
-
   </details>
 
 <details markdown="block">
@@ -106,6 +104,7 @@ $ ruby ruby/filename.rb
 
 - [anagram](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/anagram.rb)
 
+- [fibonacci_numbers](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/fibonacci_numbers.rb)
 
   </details>
 
