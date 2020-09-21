@@ -1,6 +1,6 @@
 def beautifulTriplets(d, arr)
     first = arr.first
-    arr = arr[1...]
+    arr = arr.slice(1, arr.size)
     count = 1
     res = 0
     i = 0
@@ -12,14 +12,14 @@ def beautifulTriplets(d, arr)
             
             if count == 3
                 first = arr.first
-                arr = arr[1...]
+                arr = arr.slice(1, arr.size)
                 count = 1
                 res += 1
                 i = -1
             end
         elsif arr[i] - first > d
             first = arr.first
-            arr = arr[1...]
+            arr = arr.slice(1, arr.size)
             count = 1
             i = -1
         end
