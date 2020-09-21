@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 def getMoneySpent(keyboards, drives, b)
   ksize = keyboards.length
   dsize = drives.length

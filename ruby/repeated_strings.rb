@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 def repeated_string(s, n)
   return n if s == 'a'
   return s.count('a') if s.length == n
