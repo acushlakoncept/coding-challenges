@@ -106,6 +106,8 @@ $ ruby ruby/filename.rb
 
 - [fibonacci_numbers](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/fibonacci_numbers.rb)
 
+- [chocolate_feast](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/chocolate_feast.rb)
+
   </details>
 
 # Author
