@@ -108,6 +108,10 @@ $ ruby ruby/filename.rb
 
 - [chocolate_feast](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/chocolate_feast.rb)
 
+- [linked_list](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/linked_list.rb)
+
+- [stacks](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/stacks.rb)
+
   </details>
 
 # Author
