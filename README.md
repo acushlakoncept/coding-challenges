@@ -112,6 +112,8 @@ $ ruby ruby/filename.rb
 
 - [stacks](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/stacks.rb)
 
+- [queue](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/queue.rb)
+
   </details>
 
 # Author
