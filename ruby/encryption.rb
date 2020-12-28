@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def encryption(s)
   s.gsub!(' ', '')
   s_ceil = Math.sqrt(s.size).ceil
@@ -11,4 +13,4 @@ def encryption(s)
   s_res.each { |_key, value| out_arr << value.join('') }
 
   out_arr.join(' ')
-  end
+end

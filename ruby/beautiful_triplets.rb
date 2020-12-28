@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def beautifulTriplets(d, arr)
   first = arr.first
   arr = arr.slice(1, arr.size)

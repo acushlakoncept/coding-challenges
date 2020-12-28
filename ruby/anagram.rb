@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def anagram(s)
   return -1 if s.length.odd?
 
@@ -9,7 +11,7 @@ def anagram(s)
       if i == j
         b.delete_at(indx)
         break
-        end
+      end
     end
   end
 
@@ -30,21 +32,21 @@ def anagram2(s)
   diff = 0
   char_count1.each_key do |key|
     one_char_diff = 0
-    if char_count2.has_key?(key)
+    if char_count2.key?(key)
       current_diff = char_count1[key] - char_count2[key]
-      one_char_diff = current_diff if current_diff > 0
+      one_char_diff = current_diff if current_diff.positive?
     else
       one_char_diff = char_count1[key]
     end
     diff += one_char_diff
   end
   diff
-  end
+end
 
 def self.get_char_count(s)
   char_count = {}
   s.split('').each do |c|
-    char_count[c] = if char_count.has_key?(c)
+    char_count[c] = if char_count.key?(c)
                       char_count[c] + 1
                     else
                       1

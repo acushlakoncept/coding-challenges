@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def chocolateFeast(n, c, m)
   bar = n / c
   wrap = bar

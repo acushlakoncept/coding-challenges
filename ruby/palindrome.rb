@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def palindromeIndex(s)
   return -1 if s == s.reverse
 

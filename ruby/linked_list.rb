@@ -1,24 +1,26 @@
+# frozen_string_literal: true
+
 class Node
   attr_accessor :value, :next_node
-  
+
   def initialize(value, next_node = nil)
-	  @value = value
+    @value = value
     @next_node = next_node
   end
 end
 
 class LinkedList
   attr_accessor :head, :tail, :length
-  
-  def initialize()
+
+  def initialize
     @head = nil
-    @tail = nil  
+    @tail = nil
     @length = 0
   end
 
   def add(number)
     new_node = Node.new(number)
-    
+
     if @head.nil?
       @head = new_node
       @tail = @head
@@ -26,37 +28,38 @@ class LinkedList
       @tail.next_node = new_node
       @tail = new_node
     end
-    
-    @length += 1 
+
+    @length += 1
     self
   end
 
   def get(index)
-    return nil if index < 0 || index >= @length
+    return nil if index.negative? || index >= @length
 
-    count = 0 
+    count = 0
     result = @head
     while result
       break if count == index
+
       result = result.next_node
       count += 1
     end
     result.value
   end
-  
+
   def remove(index)
-    return nil if index < 0 || index >= @length
-    
+    return nil if index.negative? || index >= @length
+
     count = 0
     current = @head
     prev = current
-    
+
     if index.zero?
       @head = current.next_node
     else
       while current.next_node
         if count == index
-          if current.next_node == nil
+          if current.next_node.nil?
             @tail = prev
             @tail.next_node = nil
           else
@@ -70,17 +73,16 @@ class LinkedList
       @length -= 1
       self
     end
-    
   end
-  
+
   def add_at(index, value)
     return add(value) if @head.nil?
-    
+
     current = @head
     prev = current
     count = 0
     new_node = Node.new(value)
-    
+
     if index.zero?
       @head = new_node
       @head.next_node = current
@@ -90,18 +92,16 @@ class LinkedList
           prev.next_node = new_node
           prev.next_node.next_node = current
           break
-        end 
+        end
         prev = current
         current = current.next_node
         count += 1
       end
     end
-    @length += 1 
+    @length += 1
     self
   end
-  
 end
-
 
 list = LinkedList.new
 

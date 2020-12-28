@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def findDigits(n)
   count = 0
   n.to_s.chars.each do |x|
