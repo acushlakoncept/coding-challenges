@@ -114,6 +114,10 @@ $ ruby ruby/filename.rb
 
 - [queue](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/queue.rb)
 
+- [min_stack](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/min_stack.rb)
+
+- [sliding_maximum](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/queue.rb)
+
   </details>
 
 # Author
