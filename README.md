@@ -116,7 +116,9 @@ $ ruby ruby/filename.rb
 
 - [min_stack](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/min_stack.rb)
 
-- [sliding_maximum](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/queue.rb)
+- [sliding_maximum](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/sliding_maximum.rb)
+
+- [balanced_bracket](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/balanced_bracket.rb)
 
   </details>
 
