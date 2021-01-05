@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 roman_mapping = {
   'M' => 1000,
   'CM' => 900,
