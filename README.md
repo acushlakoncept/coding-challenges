@@ -120,6 +120,10 @@ $ ruby ruby/filename.rb
 
 - [balanced_bracket](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/balanced_bracket.rb)
 
+- [transposition](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/transposition.rb)
+
+- [recursive_square_root](https://github.com/acushlakoncept/coding-challenges/blob/master/ruby/recursive/sqrt.rb)
+
   </details>
 
 # Author
